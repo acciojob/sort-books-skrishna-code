@@ -1,7 +1,7 @@
 
 import { createAsyncThunk, createSlice } from "@reduxjs/toolkit";
 
-const API_KEY = "YOUR_NY_TIMES_API_KEY";
+const API_KEY = "YXvdAapR37VEDAVQh6Es4FcdgG1laGUwuab56SvWnAhNwGha";
 
 export const fetchBooks = createAsyncThunk(
   "books/fetchBooks",
